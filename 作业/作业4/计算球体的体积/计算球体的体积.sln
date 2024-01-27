@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "计算球体的体积", "计算球体的体积\计算球体的体积.vcxproj", "{234327BB-5578-4ED3-A717-2C6B35A6145A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234327BB-5578-4ED3-A717-2C6B35A6145A}.Debug|x64.ActiveCfg = Debug|x64
+		{234327BB-5578-4ED3-A717-2C6B35A6145A}.Debug|x64.Build.0 = Debug|x64
+		{234327BB-5578-4ED3-A717-2C6B35A6145A}.Debug|x86.ActiveCfg = Debug|Win32
+		{234327BB-5578-4ED3-A717-2C6B35A6145A}.Debug|x86.Build.0 = Debug|Win32
+		{234327BB-5578-4ED3-A717-2C6B35A6145A}.Release|x64.ActiveCfg = Release|x64
+		{234327BB-5578-4ED3-A717-2C6B35A6145A}.Release|x64.Build.0 = Release|x64
+		{234327BB-5578-4ED3-A717-2C6B35A6145A}.Release|x86.ActiveCfg = Release|Win32
+		{234327BB-5578-4ED3-A717-2C6B35A6145A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACC5D02F-39C6-4649-BCDE-8224464E1551}
+	EndGlobalSection
+EndGlobal
